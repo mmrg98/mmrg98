@@ -11,5 +11,5 @@ Here are some ideas to get you started:-->
 - 💻 My skills:
   * Python <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/0/0a/Python.svg/1200px-Python.svg.png" style="height:15px">
   * C# <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/7/7d/Microsoft_.NET_logo.svg/1200px-Microsoft_.NET_logo.svg.png" style="height:15px">
-  * JavaScript <img src="https://pluralsight2.imgix.net/paths/images/javascript-542e10ea6e.png" style="height:20px">
+  * JavaScript <img src="https://cms-assets.tutsplus.com/uploads/users/34/posts/26177/preview_image/javascript-wide-retina-preview.png" style="height:15px">
 
